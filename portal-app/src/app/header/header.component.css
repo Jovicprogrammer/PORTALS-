@@ -1,0 +1,15 @@
+
+nav {
+
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    border-bottom: 1px solid purple;
+    background-color: rgb(219, 172, 241);
+    margin: 10px;
+}
+
+
+nav img {
+    height: 100px;
+}
